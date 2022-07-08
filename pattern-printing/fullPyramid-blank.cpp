@@ -9,6 +9,6 @@ int main(){
             if(j>n-i+1 && j<n+i-1){
                 cout<<" ";
             }else cout<<"*";
-        }
+        }cout<<endl;
     }
 }
